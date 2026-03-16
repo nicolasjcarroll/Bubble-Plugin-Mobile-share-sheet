@@ -10,6 +10,15 @@
             "name": "message",
             "rank": 0,
             "value": "text"
+        },
+        "AAE": {
+            "caption": "Test",
+            "doc": "test",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "test",
+            "rank": 0,
+            "value": "text"
         }
     },
     "type": "client_side_mobile"
