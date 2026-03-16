@@ -1,0 +1,16 @@
+{
+    "category": "plugins",
+    "display": "Open share sheet",
+    "fields": {
+        "AAD": {
+            "caption": "Message",
+            "doc": "Content that is to be shared",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "message",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side_mobile"
+}

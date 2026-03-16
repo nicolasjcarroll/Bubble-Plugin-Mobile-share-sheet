@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "containers"
+    },
+    "data_tracked": false,
+    "description": "Opens the system share sheet, allowing you to share any text you want from your app. It is a proof of concept right now, so limited to sharing text.",
+    "designed_for": "mobile",
+    "image": "//meta-q.cdn.bubble.io/f1741645034632x640244632513832100/bubble%20logo.png",
+    "license": "open_source",
+    "name": "Mobile share sheet"
+}
