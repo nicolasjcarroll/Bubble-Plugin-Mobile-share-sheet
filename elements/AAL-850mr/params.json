@@ -18,6 +18,60 @@
             "editor": "StaticText",
             "name": "test",
             "rank": 0
+        },
+        "AAP": {
+            "caption": "test 2",
+            "editor": "StaticNumber",
+            "name": "test_2",
+            "rank": 1
+        },
+        "AAQ": {
+            "caption": "test 3",
+            "editor": "Checkbox",
+            "name": "test_3",
+            "rank": 2
+        },
+        "AAR": {
+            "caption": "test 4",
+            "editor": "Color",
+            "name": "test_4",
+            "rank": 3
+        },
+        "AAS": {
+            "caption": "test 5",
+            "editor": "Dropdown",
+            "name": "test_5",
+            "rank": 4
+        },
+        "AAT": {
+            "caption": "test 6",
+            "editor": "Image",
+            "name": "test_6",
+            "rank": 5
+        },
+        "AAU": {
+            "caption": "test 7",
+            "editor": "DynamicValue",
+            "name": "test_7",
+            "rank": 6
+        },
+        "AAV": {
+            "caption": "test 8",
+            "editor": "custom_type",
+            "name": "test_8",
+            "rank": 7
+        },
+        "AAW": {
+            "caption": "test 9",
+            "editor": "custom_field_AAV",
+            "name": "test_9",
+            "rank": 8
+        },
+        "AAX": {
+            "caption": "test 10",
+            "editor": "Label",
+            "name": "test_10",
+            "rank": 9
         }
     },
     "icon": "ion-android-checkbox-blank",
