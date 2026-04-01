@@ -1,0 +1,19 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "test",
+    "fields": {
+        "AAM": {
+            "caption": "test",
+            "editor": "StaticText",
+            "name": "test",
+            "rank": 0
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "platform_type": "web"
+}

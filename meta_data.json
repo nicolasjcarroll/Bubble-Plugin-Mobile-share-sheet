@@ -7,5 +7,6 @@
     "designed_for": "mobile",
     "image": "//meta-q.cdn.bubble.io/f1741645034632x640244632513832100/bubble%20logo.png",
     "license": "open_source",
-    "name": "Mobile share sheet"
+    "name": "Mobile share sheet",
+    "platforms_new": "mobile"
 }
