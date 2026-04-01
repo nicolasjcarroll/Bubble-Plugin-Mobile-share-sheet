@@ -6,6 +6,12 @@
         "width": 400
     },
     "display": "test",
+    "events": {
+        "AAO": {
+            "caption": "test event",
+            "name": "test_event"
+        }
+    },
     "fields": {
         "AAM": {
             "caption": "test",
@@ -15,5 +21,15 @@
         }
     },
     "icon": "ion-android-checkbox-blank",
-    "platform_type": "web"
+    "platform_type": "web",
+    "states": {
+        "AAN": {
+            "caption": "test state",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "test_state",
+            "value": "text"
+        }
+    }
 }
