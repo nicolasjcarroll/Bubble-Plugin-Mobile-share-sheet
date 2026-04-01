@@ -41,6 +41,7 @@
             "caption": "test 5",
             "editor": "Dropdown",
             "name": "test_5",
+            "options": "choice 1,choice 2,choice 3",
             "rank": 4
         },
         "AAT": {
